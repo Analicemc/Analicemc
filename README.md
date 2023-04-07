@@ -1,4 +1,4 @@
-<h1 align="left">Hi stranger, I'm Analice <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
+<h1 align="left">Hi, I'm Analice <img src="https://media4.giphy.com/media/OpBA2nKQog7LENz8Of/giphy.gif?cid=ecf05e47wuoj4v1nqlkjy2x6cv2wibk9alwcuc2jep73a7de&rid=giphy.gif&ct=g" height="30px"></h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Analicemc&color=blueviolet" alt="My profile views" /></p>
 
 - ➡️ Web Developer 
@@ -40,12 +40,15 @@
 
 <p align="left" style="background:yellow">
   <a href="mailto:euanalicecosta@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/-My email-05122A?style=flat&logo=gmail" />
+    <img align="center" src="https://img.shields.io/badge/-My email-05122A?style=flat&logo=gmail" alt="E-mail adress"/>
   </a>
   <a href="https://www.linkedin.com/in/analicemendescosta/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-Analice-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+    <img align="center" src="https://img.shields.io/badge/-Analice-05122A?style=flat&logo=linkedin" alt="Linkedin link"/>
   </a>
   <a href="https://instagram.com/analicemc" target="_blank">
-   <img align="center" src="https://img.shields.io/badge/-@analicemc-05122A?style=flat&logo=instagram" alt="instagram"/>
+   <img align="center" src="https://img.shields.io/badge/-@analicemc-05122A?style=flat&logo=instagram" alt="Instagram link"/>
+  </a>
+  <a>
+   <img align="center" src="https://img.shields.io/badge/-analicemc9514-05122A?style=flat&logo=discord" alt="Discord username"/>
   </a>
 </p>
