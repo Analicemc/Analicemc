@@ -3,8 +3,7 @@
 
 - ➡️ Web Developer 
 
-- 💬 Ask me about **JavaScript, HTML, CSS, and PHP**
-
+- 💬 Ask me about **JavaScript, HTML, CSS, PHP and Dart**
 
 <br><br>
 
