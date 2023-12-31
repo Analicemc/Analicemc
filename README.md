@@ -3,13 +3,7 @@
 
 - ➡️ Web Developer 
 
-- ❤️ Team Lovelace
-
-- 📚 I’m currently learning PHP
-
 - 💬 Ask me about **JavaScript, HTML, CSS, and PHP**
-
-- 👨‍💻 More at [portfolio]()(coming soon!)
 
 
 <br><br>
